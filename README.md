@@ -66,7 +66,7 @@ SNN-based hand gesture recognition → FPGA neuromorphic inference → real-time
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-gite-3b24b8295)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuj.gite23@spit.ac.in)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1olY4Ydtx-gA1SMmGMnIqL-cG9WbIJt7d/view?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googledrive&logoColor=white)]([https://drive.google.com/file/d/1olY4Ydtx-gA1SMmGMnIqL-cG9WbIJt7d/view?usp=sharing](https://drive.google.com/file/d/13DZy4GIA7rBIjKsBc1JpKz4_OJbFPfLd/view))
 
 ---
 
