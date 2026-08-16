@@ -2,7 +2,7 @@
 
 **Frontend VLSI Design · RTL Engineer · FPGA Developer**
 
-Electronics & Telecommunications Engineering undergraduate at **S.P.I.T., Mumbai** (CGPA: 9.16/10). I design digital hardware — from custom RISC-V ISA extensions to CNN accelerators on FPGAs.
+Electronics & Telecommunications Engineering undergraduate at **S.P.I.T., Mumbai**. I design digital hardware — from custom RISC-V ISA extensions to CNN accelerators on FPGAs.
 
 ---
 
