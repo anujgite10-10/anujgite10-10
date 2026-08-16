@@ -9,16 +9,16 @@ Electronics & Telecommunications Engineering undergraduate at **S.P.I.T., Mumbai
 ## 🔧 What I Work With
 
 **HDLs & Verification**
-`Verilog` `SystemVerilog` `VHDL` `UVM`
+`Verilog` `SystemVerilog` `UVM`
 
 **FPGA & SoC Platforms**
-`Xilinx Artix-7` `Zynq-7000` `Intel Cyclone-V` `STM32` `ESP32`
+`Xilinx Artix-7` `Zynq-7000` `PYNQ-Z2` `Intel Cyclone-V` `STM32` `ESP32`
 
 **EDA & Design Tools**
 `Vivado` `Vitis HLS` `Cadence` `Quartus Prime` `ModelSim` `MATLAB`
 
 **Languages & Scripting**
-`C` `C++` `Embedded C` `Python` `Tcl`
+`C` `C++` `Embedded C` `Python`
 
 ---
 
