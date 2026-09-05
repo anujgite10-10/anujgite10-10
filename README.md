@@ -1,18 +1,16 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/anujgite10-10/rl-driven-security-verification-riscv-soc/main/physical_design/3d_soc_routing_overview.png" alt="SoC Physical Design Layout" width="100%">
+  <img src="top-image.png" alt="SoC Physical Design Layout" width="100%">
 
   <h1 align="center">Anuj Gite</h1>
 
   <p align="center">
-    <b>Electronics & Telecommunications Engineering | Hardware & Digital Logic | Edge AI</b>
+    <b><code>VLSI & RTL Design</code> | <code>Hardware Architecture</code> | <code>Edge AI</code></b>
   </p>
 
   <p align="center">
     <a href="mailto:anuj.gite23@spit.ac.in"><img src="https://img.shields.io/badge/Email-anuj.gite23%40spit.ac.in-00f0ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://linkedin.com/in/anuj-gite-3b24b8295"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff&height=60&section=header" width="100%">
 </div>
 
 ---
