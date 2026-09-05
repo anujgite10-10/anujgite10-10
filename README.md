@@ -19,7 +19,7 @@
 
 ### ⚡ About Me
 
-> **RTL Designer & FPGA Engineer** with hands-on experience in custom RISC-V ISA extensions, CNN accelerator RTL design, and HLS-based hardware IP development. I specialize in synthesis, timing closure, hardware optimization, and edge AI. I have demonstrated my expertise by winning 11 national-level hackathons.
+> **RTL Designer & FPGA Engineer** with hands-on experience in custom RISC-V ISA extensions, accelerator designs, and HLS-based hardware IP development. I specialize in synthesis, timing closure, hardware optimization, physical design, and edge AI. I have demonstrated my expertise by winning 11 national-level hackathons.
 
 ---
 
@@ -42,20 +42,37 @@
 <img src="https://img.shields.io/badge/PYNQ--Z2-E30014?style=for-the-badge&logo=xilinx&logoColor=white">
 <img src="https://img.shields.io/badge/Intel_Cyclone--V-0068B5?style=for-the-badge&logo=intel&logoColor=white">
 <img src="https://img.shields.io/badge/RISC--V-000000?style=for-the-badge&logo=riscv&logoColor=white">
+<img src="https://img.shields.io/badge/RTL_Design-4B0082?style=for-the-badge&logo=microchip&logoColor=white">
+<img src="https://img.shields.io/badge/IoT_System_Dev-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 
-**EDA Tools & Verification**
+**EDA Tools & Software**
 <br>
 <img src="https://img.shields.io/badge/Xilinx_Vivado-E30014?style=for-the-badge&logo=xilinx&logoColor=white">
 <img src="https://img.shields.io/badge/Vitis_HLS-E30014?style=for-the-badge&logo=xilinx&logoColor=white">
+<img src="https://img.shields.io/badge/Intel_Quartus-0068B5?style=for-the-badge&logo=intel&logoColor=white">
 <img src="https://img.shields.io/badge/QuestaSim-00A9E0?style=for-the-badge&logo=siemens&logoColor=white">
+<img src="https://img.shields.io/badge/COMSOL-104A73?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Ansys-FFB71B?style=for-the-badge&logo=ansys&logoColor=white">
+<img src="https://img.shields.io/badge/Proteus-1A6D99?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/MATLAB-D35400?style=for-the-badge&logo=mathworks&logoColor=white">
+<img src="https://img.shields.io/badge/Simulink-D35400?style=for-the-badge&logo=mathworks&logoColor=white">
+
+**Verification**
+<br>
 <img src="https://img.shields.io/badge/UVM-101010?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Constrained--Random-0052CC?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Functional_Coverage-4CAF50?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Testbench_Dev-607D8B?style=for-the-badge&logo=c&logoColor=white">
 
 **AI & Machine Learning**
 <br>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white">
+<img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=graphql&logoColor=white">
+<img src="https://img.shields.io/badge/LangSmith-121212?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Neural_Networks-E34F26?style=for-the-badge&logo=c&logoColor=white">
 
 ---
 
@@ -66,25 +83,41 @@
 > 
 > An end-to-end framework for designing, verifying, and physically implementing a security-hardened RISC-V SoC. Features a closed-loop AI verification engine using an RL Agent to fuzz the processor and an LLM for gap analysis. Achieved 100% functional and security coverage, complete with full timing closure, zero DRC, and LVS clean signoff on the SkyWater 130nm node.
 
-#### 🧠 Real-Time Robotic Hand Mirroring Using Bionic Retina and SNNs
-> **PYNQ-Z2 FPGA | SystemVerilog | Xilinx Vivado**
-> 
-> Designed a custom SoC-based neuromorphic vision pipeline on the PYNQ-Z2 FPGA, integrating a spike-encoding retina model, a cortical spiking neural network for gesture classification, and a spike-to-PWM actuation interface connected via AXI.
-
-#### 🌱 [SkyView - FPGA-Accelerated Sensor Fusion for Smart Agriculture](https://github.com/navya-sinha-dot/Google_Solution_challenge)
+#### 🌱 [SkyView - FPGA-Accelerated Sensor Fusion for Smart Agriculture](https://github.com/navya-sinha-dot/Google_Solution_challenge) | [Live Demo](https://google-hack-kgp5.vercel.app/)
 > **Verilog | Xilinx ZC706 | ESP32 | MQTT | LoRa**
 > 
-> Designed and implemented FPGA-accelerated sensor fusion and rain-prediction logic in Verilog, achieving 4.2× processing throughput over an ARM Cortex-A9 software baseline. Built a surrounding IoT sensing and telemetry layer for live field data streaming.
+> * Designed and implemented FPGA-accelerated sensor fusion and rain-prediction logic in Verilog on a Xilinx ZC706; achieved 4.2× processing throughput over an ARM Cortex-A9 software baseline at ~18k LUTs, ~25k FFs, 50 DSP48s, and 25 BRAMs on the Zynq fabric.
+> * Built the surrounding IoT sensing and telemetry layer (ESP32 field nodes, LoRa uplink, MQTT dashboard) to feed live field data into the FPGA-accelerated pipeline.
+> * Developed a solar-powered IoT field sensing system on ESP32, integrating 8 environmental, soil, and weather sensors over I2C and SPI; achieved sub-5-minute crop anomaly alert.
+> * Built a multi-agent AI pipeline for hyperlocal weather forecasting and automated farmer alerts using live sensor data streamed via MQTT.
+> * Designed a LoRa communication layer between ESP32 field nodes and a Raspberry Pi gateway for low-power long-range telemetry; enabled continuous sensor data relay to the cloud dashboard via MQTT.
 
 #### ⚙️ [NeurISA - Custom RISC-V ISA Extension](https://github.com/VLSI-TECH-WITH-ANOUSHKA/sakec-chipmonk-hackathon-troubleshooters)
 > **Verilog | NEORV32 | ModelSim | Zynq-7000 ZC706**
 > 
-> Extended the NEORV32 RISC-V soft-core processor with 12+ custom SIMD instructions for hardware-accelerated CNN and ML inference. Achieved 13.3× inference speedup versus software baseline on MNIST.
+> * Extended the NEORV32 RISC-V soft-core processor with 12+ custom SIMD instructions for hardware-accelerated CNN and ML inference, designing the instruction encoding, decode logic, and datapath extensions in Verilog HDL.
+> * Designed a dedicated CNN acceleration engine integrated into the extended core's datapath; validated functional correctness of all new instructions through RTL simulation in ModelSim.
+> * Implemented and validated the full design targeting the Zynq-7000 ZC706 FPGA board in Vivado; achieved 13.3× inference speedup versus software baseline on MNIST, confirming correct datapath and control behavior of the ISA extension.
 
-#### 🩻 [Real-Time MRI Analysis - CNN Inference Pipeline](https://github.com/anujgite10-10/cnn_accelerator)
+#### 🩻 [Real-Time MRI Analysis - CNN Inference Pipeline](https://github.com/anujgite10-10/cnn_accelerator) | [Project Details](https://drive.google.com/file/d/1-Xm94dDitEUGF6MnpPqjKqL1Uro7rSw0/view?usp=sharing)
 > **HLS | Xilinx Artix-7 | AXI4-Stream | MicroBlaze**
 > 
-> Implemented a CNN inference accelerator as a complete System-on-Chip (SoC) on the Xilinx Artix-7. Designed a custom HLS-generated 3×3 convolution and ReLU hardware engine integrated with a MicroBlaze soft processor using AXI DMA.
+> * Implemented a CNN inference accelerator as a complete System-on-Chip (SoC) on the Xilinx Artix-7 (xc7a50tcpg236-1) FPGA for real-time MRI data interpretation.
+> * Designed a custom HLS-generated 3×3 convolution and ReLU hardware engine, integrated with a MicroBlaze soft processor using AXI4-Stream interfaces and an AXI DMA engine for high-throughput, zero-copy data streaming.
+> * Developed embedded C control software to orchestrate DMA transfers via a 32 KB shared AXI BRAM, enabling efficient hardware-software co-design that achieved 3× faster inference versus a CPU-only baseline.
+
+#### 🔋 GridGuard - Smart Energy Management Device
+> **ESP32 | AT90E26 | Raspberry Pi | C**
+> 
+> * Prototyped an IoT energy monitoring device integrating AT90E26 metering IC, ESP32, and Raspberry Pi; improved solar self-consumption efficiency by 18% through real-time load scheduling firmware.
+> * Developed low-power firmware in C for scalable field deployment; extended system uptime by 22% through sleep-mode optimization and watchdog-based fault recovery.
+> * Built a real-time web dashboard with AI-assisted predictive energy insights, enabling continuous visibility into consumption patterns and generation forecasting.
+
+#### 🧠 Real-Time Robotic Hand Mirroring Using Bionic Retina and SNNs (Ongoing) | [Project Details](https://drive.google.com/file/d/1K6O8k_4XHty6On3K_Cmbxp8NMWCZv5Lx/view?usp=sharing)
+> **PYNQ-Z2 FPGA | SystemVerilog | Xilinx Vivado**
+> 
+> * Designing a custom SoC-based neuromorphic vision pipeline on the PYNQ-Z2 FPGA, integrating a spike-encoding retina model, a cortical spiking neural network for gesture classification, and a spike-to-PWM actuation interface as custom IP blocks (retina_pipeline, snn_core, pwm_gen) connected via AXI to the Zynq processing system.
+> * Verified the full RTL pipeline (frame ingestion through spike-to-PWM output) using a SystemVerilog testbench in Xilinx Vivado simulation (xsim), validating end-to-end signal flow, register interfaces, and waveform-level timing before hardware bring-up.
 
 ---
 
@@ -100,7 +133,7 @@
 
 ---
 
-### 🏆 Signoff & Tapeouts (Hackathon Wins & Achievements)
+### 🏆 Achievements & Hackathon Wins
 
 | Rank | Competition | Domain |
 | :---: | :--- | :--- |
