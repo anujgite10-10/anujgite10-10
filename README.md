@@ -133,18 +133,6 @@ Custom SoC-based neuromorphic vision pipeline on PYNQ-Z2 — spike-encoding reti
 [**→ Details**](https://drive.google.com/file/d/1K6O8k_4XHty6On3K_Cmbxp8NMWCZv5Lx/view?usp=sharing)
 </details>
 
-<details>
-<summary><b>🔋 GridGuard - Smart Energy Management Device</b></summary>
-<br/>
-
-IoT energy monitor combining an AT90E26 metering IC, ESP32, and Raspberry Pi — **+18% solar self-consumption** via real-time load scheduling, **+22% uptime** via sleep-mode optimization and watchdog fault recovery, with an AI-assisted predictive-insights web dashboard.
-
-`AT90E26` `ESP32` `Predictive Analytics`
-</details>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/2v6t8n.gif" width="100%" height="4px"/>
-</div>
 
 ## `03` &nbsp;// Hackathon Ledger
 
