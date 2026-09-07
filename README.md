@@ -40,28 +40,7 @@ $ status
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/2v6t8n.gif" width="100%" height="4px"/>
 </div>
 
-## `01` &nbsp;// Signal Chain
-
-<table align="center">
-<tr>
-<td width="50%" align="center">
-<img src="assets/waveform_sim.png" width="100%"/>
-<br/>
-<sub><b>⏱ RTL waveform verification — Xilinx Vivado (xsim)</b><br/>End-to-end signal flow, register interfaces & timing, cycle-accurate</sub>
-</td>
-<td width="50%" align="center">
-<img src="assets/chip_layout.png" width="100%"/>
-<br/>
-<sub><b>🧬 Post-P&R physical design — SkyWater 130nm</b><br/>Full timing closure · zero DRC · LVS clean signoff</sub>
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/2v6t8n.gif" width="100%" height="4px"/>
-</div>
-
-## `02` &nbsp;// Toolchain
+## `01` &nbsp;// Toolchain
 
 <div align="center">
 
@@ -103,7 +82,7 @@ $ status
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/2v6t8n.gif" width="100%" height="4px"/>
 </div>
 
-## `03` &nbsp;// Core IP & Featured Builds
+## `02` &nbsp;// Core IP & Featured Builds
 
 <details open>
 <summary><b>🔐 RL-Driven Security Verification RISC-V SoC</b></summary>
@@ -168,7 +147,7 @@ IoT energy monitor combining an AT90E26 metering IC, ESP32, and Raspberry Pi —
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/2v6t8n.gif" width="100%" height="4px"/>
 </div>
 
-## `04` &nbsp;// Hackathon Ledger
+## `03` &nbsp;// Hackathon Ledger
 
 <div align="center">
 
@@ -193,7 +172,7 @@ IoT energy monitor combining an AT90E26 metering IC, ESP32, and Raspberry Pi —
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/2v6t8n.gif" width="100%" height="4px"/>
 </div>
 
-## `05` &nbsp;// Live Metrics
+## `04` &nbsp;// Live Metrics
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=anujgite10-10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9" width="49%"/>
