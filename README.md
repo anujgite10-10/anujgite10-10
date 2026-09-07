@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=ANUJ%20GITE&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=&descAlignY=60" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00F0FF&center=true&vCenter=true&width=650&lines=Verilog+%7C+SystemVerilog+%7C+RTL+to+GDSII;RISC-V+Custom+ISA+Extensions;FPGA+Acceleration+%7C+Edge+AI+SoCs;100%25+Coverage+%7C+Zero+DRC+%7C+LVS+Clean;11x+National+Hackathon+Winner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00F0FF&center=true&vCenter=true&width=650&lines=Verilog+%7C+SystemVerilog+%7C+RTL+to+GDSII;RISC-V+Custom+ISA+Extensions;FPGA+Acceleration+%7C+Edge+AI+SoCs;11x+National+Hackathon+Winner" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -49,10 +49,13 @@ $ status
 <img src="https://img.shields.io/badge/Verilog-153D70?style=for-the-badge&logo=v&logoColor=white"/>
 <img src="https://img.shields.io/badge/SystemVerilog-00599C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Embedded_C-FF9900?style=for-the-badge&logo=microchip&logoColor=white"/>
+<img src="https://img.shields.io/badge/TCL_Scripting-3E4A89?style=for-the-badge&logo=tcl&logoColor=white"/>
 
 **Silicon & FPGA**
 <br/>
 <img src="https://img.shields.io/badge/RISC--V-000000?style=for-the-badge&logo=riscv&logoColor=white"/>
+<img src="https://img.shields.io/badge/RTL_Design-4B0082?style=for-the-badge&logo=microchip&logoColor=white"/>
+<img src="https://img.shields.io/badge/Physical_Design-4B0082?style=for-the-badge&logo=microchip&logoColor=white"/>
 <img src="https://img.shields.io/badge/Xilinx_Artix--7-E30014?style=for-the-badge&logo=xilinx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zynq--7000-E30014?style=for-the-badge&logo=xilinx&logoColor=white"/>
 <img src="https://img.shields.io/badge/PYNQ--Z2-E30014?style=for-the-badge&logo=xilinx&logoColor=white"/>
@@ -62,12 +65,18 @@ $ status
 **EDA & Verification**
 <br/>
 <img src="https://img.shields.io/badge/Vivado-E30014?style=for-the-badge&logo=xilinx&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenROAD-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Verilator-D22128?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Vitis_HLS-E30014?style=for-the-badge&logo=xilinx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Quartus_Prime-0068B5?style=for-the-badge&logo=intel&logoColor=white"/>
 <img src="https://img.shields.io/badge/QuestaSim-00A9E0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UVM-101010?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/COMSOL-104A73?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ansys-FFB71B?style=for-the-badge&logo=ansys&logoColor=white"/>
 <img src="https://img.shields.io/badge/MATLAB-D35400?style=for-the-badge&logo=mathworks&logoColor=white"/>
 <img src="https://img.shields.io/badge/Simulink-D35400?style=for-the-badge&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/UVM-101010?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Constrained--Random_Verification-101010?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agent--Driven_Verification-101010?style=for-the-badge"/>
 
 **Edge AI**
 <br/>
