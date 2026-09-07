@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/chip_layout.png" width="100%" alt="Post P&R Physical Design Layout"/>
+<img src="assetswaveform_sim.png.png" width="100%" alt="Post P&R Physical Design Layout"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=ANUJ%20GITE&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=&descAlignY=60" width="100%"/>
 
