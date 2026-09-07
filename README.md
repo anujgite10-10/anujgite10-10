@@ -163,7 +163,7 @@ Custom SoC-based neuromorphic vision pipeline on PYNQ-Z2 — spike-encoding reti
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=anujgite10-10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anujgite10-10&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=anujgite10-10&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff" width="49%"/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujgite10-10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anujgite10-10&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff" width="49%"/>
