@@ -29,8 +29,7 @@ $ location
 > Mumbai, India
 
 $ current_focus
-> Taping out ideas in Verilog, verifying them in silicon-time,
-> and teaching RISC-V cores new instructions.
+> Designing silicon from RTL to GDSII, verifying hardware, and pushing RISC-V beyond the standard ISA.
 
 $ status
 > 11x national hackathon winner  |  Google Solution Challenge '26 — 2nd  |  AMD Slingshot '26 — Regional Runner-Up
