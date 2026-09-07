@@ -94,7 +94,7 @@ End-to-end framework to design, verify, and physically implement a security-hard
 </details>
 
 <details>
-<summary><b>🌱 SkyView — FPGA-Accelerated Sensor Fusion for Smart Agriculture</b></summary>
+<summary><b>🌱 SkyView - FPGA-Accelerated Sensor Fusion for Smart Agriculture</b></summary>
 <br/>
 
 FPGA-accelerated sensor fusion & rain-prediction logic in Verilog on a Xilinx ZC706 — **4.2× throughput** over an ARM Cortex-A9 baseline at ~18k LUTs / ~25k FFs / 50 DSP48s / 25 BRAMs. Paired with an ESP32 + LoRa + MQTT telemetry layer and a multi-agent AI pipeline for hyperlocal forecasting and farmer alerts.
@@ -104,7 +104,7 @@ FPGA-accelerated sensor fusion & rain-prediction logic in Verilog on a Xilinx ZC
 </details>
 
 <details>
-<summary><b>⚙️ NeurISA — Custom RISC-V ISA Extension</b></summary>
+<summary><b>⚙️ NeurISA - Custom RISC-V ISA Extension</b></summary>
 <br/>
 
 Extended the NEORV32 soft-core with **12+ custom SIMD instructions** for hardware-accelerated CNN/ML inference — encoding, decode logic & datapath in Verilog, with a dedicated CNN acceleration engine. Validated on Zynq-7000 ZC706 in Vivado: **13.3× inference speedup** vs. software baseline on MNIST.
@@ -114,7 +114,7 @@ Extended the NEORV32 soft-core with **12+ custom SIMD instructions** for hardwar
 </details>
 
 <details>
-<summary><b>🩻 Real-Time MRI Analysis — CNN Inference Pipeline</b></summary>
+<summary><b>🩻 Real-Time MRI Analysis - CNN Inference Pipeline</b></summary>
 <br/>
 
 Full SoC CNN inference accelerator on Xilinx Artix-7 for real-time MRI interpretation. Custom HLS-generated 3×3 convolution + ReLU engine, MicroBlaze soft processor, AXI4-Stream + AXI DMA zero-copy streaming, embedded-C orchestration over a 32 KB shared AXI BRAM — **3× faster** than a CPU-only baseline.
@@ -134,7 +134,7 @@ Custom SoC-based neuromorphic vision pipeline on PYNQ-Z2 — spike-encoding reti
 </details>
 
 <details>
-<summary><b>🔋 GridGuard — Smart Energy Management Device</b></summary>
+<summary><b>🔋 GridGuard - Smart Energy Management Device</b></summary>
 <br/>
 
 IoT energy monitor combining an AT90E26 metering IC, ESP32, and Raspberry Pi — **+18% solar self-consumption** via real-time load scheduling, **+22% uptime** via sleep-mode optimization and watchdog fault recovery, with an AI-assisted predictive-insights web dashboard.
