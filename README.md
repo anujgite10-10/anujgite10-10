@@ -103,7 +103,7 @@ End-to-end framework to design, verify, and physically implement a security-hard
 </details>
 
 <details>
-<summary><b>🌱 SkyView AI: Autonomous Planetary Agricultural Intelligence Engine, Multimodal Plant Pathology Diagnostics, Edge FPGA Neural Telemetry & Vernacular Voice OS</b></summary>
+<summary><b>🌱 SkyView AI: Autonomous Planetary Agricultural Intelligence System</b></summary>
 <br/>
 
 FPGA-accelerated sensor fusion & rain-prediction logic in Verilog on a Xilinx ZC706 — **4.2× throughput** over an ARM Cortex-A9 baseline at ~18k LUTs / ~25k FFs / 50 DSP48s / 25 BRAMs. Paired with an ESP32 + LoRa + MQTT telemetry layer and a multi-agent AI pipeline for hyperlocal forecasting and farmer alerts.
