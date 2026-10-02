@@ -96,17 +96,17 @@ $ status
 <summary><b>🔐 RL-Driven Security Verification RISC-V SoC</b></summary>
 <br/>
 
-End-to-end framework to design, verify, and physically implement a security-hardened RISC-V SoC — closed-loop AI verification using an RL agent to fuzz the processor plus an LLM for gap analysis. **100% functional & security coverage**, full timing closure, **zero DRC, LVS clean** on SkyWater 130nm.
+End-to-end framework to design, verify, and physically implement a security-hardened RISC-V SoC - closed-loop AI verification using an RL agent to fuzz the processor plus an LLM for gap analysis. **100% functional & security coverage**, full timing closure, **zero DRC, LVS clean** on SkyWater 130nm.
 
 `RISC-V` `RL Verification` `SkyWater 130nm` `Physical Design`
 [**→ Repo**](https://github.com/anujgite10-10/rl-driven-security-verification-riscv-soc)
 </details>
 
 <details>
-<summary><b>🌱 SkyView AI: Autonomous Planetary Agricultural Intelligence System</b></summary>
+<summary><b>🌱 SkyView AI-Autonomous Planetary Agricultural Intelligence System</b></summary>
 <br/>
 
-FPGA-accelerated sensor fusion & rain-prediction logic in Verilog on a Xilinx ZC706 — **4.2× throughput** over an ARM Cortex-A9 baseline at ~18k LUTs / ~25k FFs / 50 DSP48s / 25 BRAMs. Paired with an ESP32 + LoRa + MQTT telemetry layer and a multi-agent AI pipeline for hyperlocal forecasting and farmer alerts.
+FPGA-accelerated sensor fusion & rain-prediction logic in Verilog on a Xilinx ZC706 - **4.2× throughput** over an ARM Cortex-A9 baseline at ~18k LUTs / ~25k FFs / 50 DSP48s / 25 BRAMs. Paired with an ESP32 + LoRa + MQTT telemetry layer and a multi-agent AI pipeline for hyperlocal forecasting and farmer alerts.
 
 `Verilog` `Zynq Fabric` `LoRa` `MQTT` `Multi-Agent AI`
 [**→ Repo**](https://github.com/vvinayakkk/skyview-ai.git) · [**→ Live Demo**](https://skyview-ai.vercel.app)
@@ -116,7 +116,7 @@ FPGA-accelerated sensor fusion & rain-prediction logic in Verilog on a Xilinx ZC
 <summary><b>⚙️ NeurISA - Custom RISC-V ISA Extension</b></summary>
 <br/>
 
-Extended the NEORV32 soft-core with **12+ custom SIMD instructions** for hardware-accelerated CNN/ML inference — encoding, decode logic & datapath in Verilog, with a dedicated CNN acceleration engine. Validated on Zynq-7000 ZC706 in Vivado: **13.3× inference speedup** vs. software baseline on MNIST.
+Extended the NEORV32 soft-core with **12+ custom SIMD instructions** for hardware-accelerated CNN/ML inference - encoding, decode logic & datapath in Verilog, with a dedicated CNN acceleration engine. Validated on Zynq-7000 ZC706 in Vivado: **13.3× inference speedup** vs. software baseline on MNIST.
 
 `NEORV32` `Custom SIMD ISA` `ModelSim` `Zynq-7000`
 [**→ Repo**](https://github.com/VLSI-TECH-WITH-ANOUSHKA/sakec-chipmonk-hackathon-troubleshooters)
@@ -139,7 +139,7 @@ Full SoC CNN inference accelerator on Xilinx Artix-7 for real-time MRI interpret
 Custom SoC-based neuromorphic vision pipeline on PYNQ-Z2 — spike-encoding retina model, cortical SNN for gesture classification, and a spike-to-PWM actuation interface as custom AXI-connected IP blocks (`retina_pipeline`, `snn_core`, `pwm_gen`). Full pipeline verified frame-ingestion-to-actuation with a SystemVerilog testbench in xsim.
 
 `PYNQ-Z2` `Spiking Neural Networks` `AXI IP` `SystemVerilog`
-[**→ Details**](https://drive.google.com/file/d/1K6O8k_4XHty6On3K_Cmbxp8NMWCZv5Lx/view?usp=sharing)
+[**→ Details**](https://drive.google.com/file/d/1krzYhVngimTeE4V_nxtorMpj1GheehrL/view)
 </details>
 
 
