@@ -126,7 +126,7 @@ Extended the NEORV32 soft-core with **12+ custom SIMD instructions** for hardwar
 <summary><b>🩻 Real-Time MRI Analysis - CNN Inference Pipeline</b></summary>
 <br/>
 
-Full SoC CNN inference accelerator on Xilinx Artix-7 for real-time MRI interpretation. Custom HLS-generated 3×3 convolution + ReLU engine, MicroBlaze soft processor, AXI4-Stream + AXI DMA zero-copy streaming, embedded-C orchestration over a 32 KB shared AXI BRAM — **3× faster** than a CPU-only baseline.
+Full SoC CNN inference accelerator on Xilinx Artix-7 for real-time MRI interpretation. Custom HLS-generated 3×3 convolution + ReLU engine, MicroBlaze soft processor, AXI4-Stream + AXI DMA zero-copy streaming, embedded-C orchestration over a 32 KB shared AXI BRAM - **3× faster** than a CPU-only baseline.
 
 `Vitis HLS` `MicroBlaze` `AXI DMA` `Artix-7`
 [**→ Repo**](https://github.com/anujgite10-10/cnn_accelerator) · [**→ Details**](https://drive.google.com/file/d/1-Xm94dDitEUGF6MnpPqjKqL1Uro7rSw0/view?usp=sharing)
@@ -136,7 +136,7 @@ Full SoC CNN inference accelerator on Xilinx Artix-7 for real-time MRI interpret
 <summary><b>🧠 Bionic Retina + SNN Robotic Hand Mirroring</b> <i>(ongoing)</i></summary>
 <br/>
 
-Custom SoC-based neuromorphic vision pipeline on PYNQ-Z2 — spike-encoding retina model, cortical SNN for gesture classification, and a spike-to-PWM actuation interface as custom AXI-connected IP blocks (`retina_pipeline`, `snn_core`, `pwm_gen`). Full pipeline verified frame-ingestion-to-actuation with a SystemVerilog testbench in xsim.
+Custom SoC-based neuromorphic vision pipeline on PYNQ-Z2 - spike-encoding retina model, cortical SNN for gesture classification, and a spike-to-PWM actuation interface as custom AXI-connected IP blocks (`retina_pipeline`, `snn_core`, `pwm_gen`). Full pipeline verified frame-ingestion-to-actuation with a SystemVerilog testbench in xsim.
 
 `PYNQ-Z2` `Spiking Neural Networks` `AXI IP` `SystemVerilog`
 [**→ Details**](https://drive.google.com/file/d/1krzYhVngimTeE4V_nxtorMpj1GheehrL/view)
