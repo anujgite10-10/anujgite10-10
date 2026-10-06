@@ -133,10 +133,10 @@ Full SoC CNN inference accelerator on Xilinx Artix-7 for real-time MRI interpret
 </details>
 
 <details>
-<summary><b>🧠 Bionic Retina + SNN Robotic Hand Mirroring</b> <i>(ongoing)</i></summary>
+<summary><b>🧠 Real-Time Neuromorphic Hand Mirroring on FPGA </b> <i>(ongoing)</i></summary>
 <br/>
 
-Custom SoC-based neuromorphic vision pipeline on PYNQ-Z2 - spike-encoding retina model, cortical SNN for gesture classification, and a spike-to-PWM actuation interface as custom AXI-connected IP blocks (`retina_pipeline`, `snn_core`, `pwm_gen`). Full pipeline verified frame-ingestion-to-actuation with a SystemVerilog testbench in xsim.
+FPGA-based neuromorphic vision system for real-time robotic hand mirroring on AMD Zynq-7000 ZC706, integrating a 4-stage bionic retina, 5-layer LIF SNN accelerator with 256 parallel PEs, INT8 quantization and spike-driven computation, and a spike-to-PWM interface for controlling a physical 5-DOF robotic hand.
 
 `PYNQ-Z2` `Spiking Neural Networks` `AXI IP` `SystemVerilog`
 [**→ Details**](https://drive.google.com/file/d/1krzYhVngimTeE4V_nxtorMpj1GheehrL/view)
