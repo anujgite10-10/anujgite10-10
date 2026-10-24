@@ -119,7 +119,7 @@ FPGA-accelerated sensor fusion & rain-prediction logic in Verilog on a Xilinx ZC
 Extended the NEORV32 soft-core with **12+ custom SIMD instructions** for hardware-accelerated CNN/ML inference - encoding, decode logic & datapath in Verilog, with a dedicated CNN acceleration engine. Validated on Zynq-7000 ZC706 in Vivado: **13.3× inference speedup** vs. software baseline on MNIST.
 
 `NEORV32` `Custom SIMD ISA` `ModelSim` `Zynq-7000`
-[**→ Repo**](https://github.com/VLSI-TECH-WITH-ANOUSHKA/sakec-chipmonk-hackathon-troubleshooters)
+[**→ Repo**](https://github.com/anujgite10-10/neurisa-riscv-cnn-accelerator.git)
 </details>
 
 <details>
