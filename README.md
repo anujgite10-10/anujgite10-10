@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="mailto:anuj.gite23@spit.ac.in"><img src="https://img.shields.io/badge/Email-anuj.gite23%40spit.ac.in-00f0ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:anujgite31@gmail.com"><img src="https://img.shields.io/badge/Email-anuj.gite23%40spit.ac.in-00f0ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/anuj-gite-3b24b8295"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/anujgite10-10"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://drive.google.com/file/d/1jNcnBtbwqun1h66sjhRYHeRzdHQkue3y/view"><img src="https://img.shields.io/badge/Portfolio-View-FF6F00?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
@@ -72,6 +72,9 @@ $ status
 <img src="https://img.shields.io/badge/QuestaSim-00A9E0?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/COMSOL-104A73?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Ansys-FFB71B?style=for-the-badge&logo=ansys&logoColor=white"/>
+<img src="https://img.shields.io/badge/LTspice-004C97?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Electric_VLSI-1E7B34?style=for-the-badge&logo=gnu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cadence_Incisive-DA291C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MATLAB-D35400?style=for-the-badge&logo=mathworks&logoColor=white"/>
 <img src="https://img.shields.io/badge/Simulink-D35400?style=for-the-badge&logo=mathworks&logoColor=white"/>
 <img src="https://img.shields.io/badge/UVM-101010?style=for-the-badge"/>
