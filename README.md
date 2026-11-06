@@ -142,6 +142,15 @@ FPGA-based neuromorphic vision system for real-time robotic hand mirroring on AM
 [**→ Details**](https://drive.google.com/file/d/1krzYhVngimTeE4V_nxtorMpj1GheehrL/view)
 </details>
 
+<details>
+<summary><b>⚡ Subthreshold Neuromorphic VLSI: 12T LIF Neuron & STDP Synapse</b></summary>
+<br/>
+
+Subthreshold CMOS neuromorphic processing core implementing a 12T Leaky Integrate-and-Fire (LIF) neuron with Schmitt-trigger hysteresis and an 11T OTA-driven STDP synaptic plasticity engine. Features bio-inspired auditory processing (cochlear half-wave rectification, toneburst detection, and AM phase-locking up to 40 Hz). Optimized for **0.6V ultra-low-voltage operation** (**67% supply reduction**, **>85% power reduction**) via transistor geometry tuning ($L_{Schmitt} = 400\text{ nm}$, $W_{Reset} = 4\ \mu\text{m}$). Characterized across **180nm, 90nm, and 65nm PTM** in LTspice with complete DRC-clean physical layouts in Electric VLSI (`mocmos`).
+
+`Neuromorphic VLSI` `LTspice` `Electric VLSI` `STDP Plasticity` `Subthreshold CMOS`
+[**→ Repo**](https://github.com/anujgite10-10/subthreshold-neuromorphic-lif-stdp)
+</details>
 
 ## `03` &nbsp;// Hackathon Ledger
 
