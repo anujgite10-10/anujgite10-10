@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="mailto:anujgite31@gmail.com"><img src="https://img.shields.io/badge/Email-anuj.gite23%40spit.ac.in-00f0ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:anujgite31@gmail.com"><img src="https://img.shields.io/badge/Email-anujgite31%40gmail.com-00f0ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/anuj-gite-3b24b8295"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/anujgite10-10"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://drive.google.com/file/d/1jNcnBtbwqun1h66sjhRYHeRzdHQkue3y/view"><img src="https://img.shields.io/badge/Portfolio-View-FF6F00?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
