@@ -133,7 +133,7 @@ Full SoC CNN inference accelerator on Xilinx Artix-7 for real-time MRI interpret
 </details>
 
 <details>
-<summary><b>🧠 Real-Time Robotic Hand Mirroring Using Bionic Retina and Spiking Neural Networks (SNNs)</b> <i>(ongoing)</i></summary>
+<summary><b>🧠 Real-Time Robotic Hand Mirroring Using Bionic Retina and Spiking Neural Networks (SNNs)</b></summary>
 <br/>
 
 FPGA-based neuromorphic vision system for real-time robotic hand mirroring on AMD Zynq-7000 ZC706, integrating a 4-stage bionic retina, 5-layer LIF SNN accelerator with 256 parallel PEs, INT8 quantization and spike-driven computation, and a spike-to-PWM interface for controlling a physical 5-DOF robotic hand.
